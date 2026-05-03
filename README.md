@@ -1,6 +1,6 @@
 # Skill Studio
 
-Skill Studio 是一个 Verdent skill，用于把本地 Verdent skills 可视化、阅读、理解、检查、编辑和维护成一个可操作的 HTML 工作台。
+Skill Studio 是一个 skill，用于把本地 skills 可视化、阅读、理解、检查、编辑和维护成一个可操作的 HTML 工作台。
 
 它可以帮助你看清一个 skill 的用途、触发场景、Agent 可能的执行路径、依赖文件，以及浏览器里做出的修改如何先暂存为 JSON，再交给 Agent 审查 diff 后写回真实 skill 文件。
 
